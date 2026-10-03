@@ -1,0 +1,6 @@
+{
+  "name": "RANGER-X Telemetry Console",
+  "description": "AeroForest Telemetry System & Wildlife-Rescue Exo-Wearable Tactical Command Console for wildland patrol and non-harmful fauna response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
